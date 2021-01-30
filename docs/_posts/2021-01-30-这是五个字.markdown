@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "让我康康！"
+date:   2021-01-30 00:18:47 +0800
+categories: jekyll update
+---
+# 这是一个大标题
+
+## 人家是小标题
+
+### 啦啦啦
+
+##### 我爱你中国亲爱滴母亲
+
+
+`mathematica`是一款数学软件，大家用了*都说好*,要说它为什么好，因为很**酷炫**。
+
+### 就尼玛像个弱智
+
+> 下一个就是你辣，Jo太郎！
+>>> 泥给路哒哟
+>>>>> 傻孩子！快跑啊！！
+> 这个彬彬就是逊啦
+
+1. ~~这是一个删除线（误）~~
+2. 我要逆袭！我要逆袭！
+
+- 今天是个好日子
+
+- 杰，杰哥，这是什么啊
+  - 好玩，是新游戏哦
+
+- 比游戏还刺激
+
+
+
+{% highlight python %}
+def print_hi(name)
+  print("Hi, "+name)
+
+print_hi('Tom')
+{% endhighlight %}
+
+[bilibili][bilibili]是一个视频网站
+
+[ranger][ranger]是个超酷炫的文件浏览器。
+
+我一会儿要去学git辣，详情请见廖雪峰的git教程[如何创建和合并分支][如何创建和合并分支]
+
+
+[ranger]: https://www.jianshu.com/p/58c04b03b7dd
+[bilibili]:  https://www.bilibili.com/
+[如何创建和合并分支]: https://www.liaoxuefeng.com/wiki/896043488029600/900003767775424
